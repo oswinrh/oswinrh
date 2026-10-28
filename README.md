@@ -1,8 +1,8 @@
-# Hi there, I'm Oswin 👋
+# Hi there, I'm Oswin
 
-**Data Engineering & Platform Leader | Data Architecture | Data Analytics | Data Governance | Open Source**
+**Data Engineering & Platform | Data Architecture | Data Analytics | Data Governance | Tech Leadership | Open Source**
 
-I'm a data professional with 10+ years of experience building scalable data platforms, leading engineering teams, and transforming data capabilities across technology, fintech, and multinational organizations.
+I'm a data professional with 10+ years of experience building scalable data platforms, leading data teams, and transforming data capabilities across technology, fintech, and multinational organizations.
 
 My experience spans **Data Engineering, Data Architecture, Data Analytics, and Data Governance**, combining hands-on technical expertise with engineering leadership and business strategy.
 
@@ -16,17 +16,16 @@ My experience spans **Data Engineering, Data Architecture, Data Analytics, and D
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python, SQL, Spark, Scala
-
-**Cloud Platforms:** Google Cloud Platform, Microsoft Azure, AWS, Alibaba Cloud
-
-**Data Engineering:** Apache Airflow, dbt, Databricks, Snowflake
-
-**Data Architecture:** Data Lakes, Data Warehouses, Lakehouse, Medallion Architecture, Dimensional Modeling
-
-**Analytics & BI:** Power BI, Looker, Tableau
-
-**Engineering Practices:** CI/CD, Infrastructure as Code, Docker, GitHub Actions, Data Quality & Observability
+- **Programming Languages:** Python, SQL, Scala
+- **Cloud Platforms:** Google Cloud Platform (GCP), Microsoft Azure, Amazon Web Services (AWS), Alibaba Cloud
+- **Data Processing & Compute:** Apache Spark, Databricks, Apache Beam
+- **Data Warehousing & Storage:** BigQuery, Snowflake, Azure SQL, Amazon Redshift, Data Lakes
+- **Data Engineering & Orchestration:** Apache Airflow, Azure Data Factory, dbt, AWS Glue
+- **Streaming & Data Integration:** Apache Kafka, Google Cloud Pub/Sub, Change Data Capture (Google Datastream, Debezium)
+- **Analytics & Business Intelligence:** Power BI, Looker, Tableau, Metabase
+- **Data Governance & Security:** Data Quality (Great Expectations, Soda), Master Data Management (Informatica MDM, Microsoft Power Apps), Data Catalog & Lineage (DataHub, OpenMetadata, Microsoft Purview), Access Control & Data Privacy (RBAC, PII Masking, Data Classification)
+- **DevOps & Engineering Practices:** CI/CD (GitHub Actions, Azure DevOps, GitLab CI), Infrastructure as Code (Terraform), Containerization (Docker), Monitoring & Observability (Grafana, Datadog, Prometheus)
+- **AI & Machine Learning:** Vertex AI, Azure AI Foundry, AWS Bedrock, LLMs, RAG, Agentic AI
 
 ### 🌱 What I'm Exploring
 
