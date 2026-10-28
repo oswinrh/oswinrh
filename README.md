@@ -16,16 +16,15 @@ My experience spans **Data Engineering, Data Architecture, Data Analytics, and D
 
 ### 🛠️ Tech Stack
 
-- **Programming Languages:** Python, SQL, Scala
+- **Programming Languages:** Python, SQL, Scala, Apache Spark
 - **Cloud Platforms:** Google Cloud Platform (GCP), Microsoft Azure, Amazon Web Services (AWS), Alibaba Cloud
-- **Data Processing & Compute:** Apache Spark, Databricks, Apache Beam
-- **Data Warehousing & Storage:** BigQuery, Snowflake, Azure SQL, Amazon Redshift, Data Lakes
-- **Data Engineering & Orchestration:** Apache Airflow, Azure Data Factory, dbt, AWS Glue
-- **Streaming & Data Integration:** Apache Kafka, Google Cloud Pub/Sub, Change Data Capture (Google Datastream, Debezium)
-- **Analytics & Business Intelligence:** Power BI, Looker, Tableau, Metabase
-- **Data Governance & Security:** Data Quality (Great Expectations, Soda), Master Data Management (Informatica MDM, Microsoft Power Apps), Data Catalog & Lineage (DataHub, OpenMetadata, Microsoft Purview), Access Control & Data Privacy (RBAC, PII Masking, Data Classification)
-- **DevOps & Engineering Practices:** CI/CD (GitHub Actions, Azure DevOps, GitLab CI), Infrastructure as Code (Terraform), Containerization (Docker), Monitoring & Observability (Grafana, Datadog, Prometheus)
-- **AI & Machine Learning:** Vertex AI, Azure AI Foundry, AWS Bedrock, LLMs, RAG, Agentic AI
+- **Data Warehousing & Lakehouse:** Google BigQuery, Snowflake, Microsoft Fabric, Amazon Redshift, Databricks Lakehouse
+- **Data Engineering & Orchestration:** Apache Airflow, Azure Data Factory, AWS Glue, dbt
+- **Data Streaming:** Apache Kafka, Google Cloud Pub/Sub, Change Data Capture (Google Datastream, Debezium)
+- **Analytics & BI:** Power BI, Looker, Tableau, Metabase
+- **Data Governance & Security:** Data Quality (Great Expectations, Soda), Master Data Management (Profisee, Semarchy, Boomi), Data Catalog & Lineage (DataHub, OpenMetadata, Microsoft Purview, Unity Catalog), Access Control & Data Privacy (RBAC, PII Masking, Data Classification)
+- **DevOps & Engineering:** CI/CD (GitHub Actions, Azure DevOps, GitLab CI), Infrastructure as Code (Terraform), Containerization (Docker), Monitoring & Observability (Grafana, Datadog, Prometheus)
+- **AI & Machine Learning:** Cloud AI Platforms (Google Vertex AI, Azure AI Foundry, AWS Bedrock), LLMs (OpenAI GPT, Anthropic Claude, Google Gemini), ML Frameworks (scikit-learn, BigQuery ML), LLM Applications & Frameworks (LangChain, RAG, GraphRAG), AI Agents & Automation (Agentic AI, n8n, Claude Code), Vector & Graph Databases (PostgreSQL/pgvector, Neo4j), NoSQL Databases (MongoDB, Redis)
 
 ### 🌱 What I'm Exploring
 
